@@ -1,0 +1,16 @@
+{
+  "name": "algorithm-solutions",
+  "version": "1.0.0",
+  "description": "The \"Algorithmic Solutions\" repository contains a collection of algorithm implementations and solutions for various use cases. It provides code examples, problem descriptions, and documentation to help developers understand and apply algorithms to solve specific challenges efficiently. The repository encourages collaboration and knowledge sharing among developers interested in algorithmic problem-solving.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
