@@ -1,1 +1,2 @@
-# algorithm-solutions
+# algorithm solutions
+The "Algorithmic Solutions" repository contains a collection of algorithm implementations and solutions for various use cases. It provides code examples, problem descriptions, and documentation to help developers understand and apply algorithms to solve specific challenges efficiently. The repository encourages collaboration and knowledge sharing among developers interested in algorithmic problem-solving.
