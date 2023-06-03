@@ -2,7 +2,7 @@
  * 
  * @param {Array} arr Array of value 
  * @param {any} search value
- * @BigO log(n)
+ * @BigO O(n)
  * @returns the index of the value or -1
  */
 const linear_search = (arr, search) => {
